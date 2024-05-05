@@ -8,7 +8,7 @@ In this challenge I will assume the role of KrytoJobs2Go customer. This challeng
 I was able to finish the code and update the web3 codes, to my dismay I ran into an error of ValueError 'insufficent funds'
 
 #### Value Error Message:
-![alt=""](Images/krypto_jobs-image.png)
+![alt=""](Images/krypto_jobs.png)
 
 #### Ganache:
-![alt=""](Images/Ganache-image.png)
+![alt=""](Images/Ganache.png)
